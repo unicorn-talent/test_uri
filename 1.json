@@ -1,0 +1,8 @@
+{
+  "name": "South Weat",
+  "description": "South Weat Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+  "image": "https://openseacreatures.io/image.png",
+  "external_link": "https://openseacreatures.io",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xDEda162D0A9001b48D38652B42a966ED15B3D528"
+}
