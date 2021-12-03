@@ -1,8 +1,6 @@
 {
   "name": "South Weat",
   "description": "South Weat Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
-  "external_link": "https://nft-island-dev.herokuapp.com/",
-  "seller_fee_basis_points": 100,
-  "fee_recipient": "0xDEda162D0A9001b48D38652B42a966ED15B3D528"
+  "image_url": "https://storage.opensea.io/files/ab418b4c208d7bda296b807ee1d830b4.svg",
+  "external_link": "https://nft-island-dev.herokuapp.com/"
 }
